@@ -1,7 +1,7 @@
 /**
- * SYSC 2004 Winter 2021 - Milestone 5 ShoppingCart Class
+ * SYSC 2004 Winter 2021 - Milestone 5 Inventory Class
  *
- * @authors Gilles Myny, 101145477 & Tawseef Patel, 101145333
+ * @authors Gilles Myny & Tawseef Patel
  * @version 5.0
  */
 
