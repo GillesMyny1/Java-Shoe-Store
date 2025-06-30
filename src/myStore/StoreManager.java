@@ -1,5 +1,5 @@
 /**
- * SYSC 2004 Winter 2021 - Milestone 5 Inventory Class
+ * SYSC 2004 Winter 2021 - Milestone 5 StoreManager Class
  *
  * @authors Gilles Myny & Tawseef Patel
  * @version 5.0
