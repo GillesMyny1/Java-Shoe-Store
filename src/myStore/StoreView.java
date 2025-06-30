@@ -1,7 +1,7 @@
 /**
  * SYSC 2004 Winter 2021 - Milestone 5 StoreView Class
  *
- * @authors Tawseef Patel, 101145333 & Gilles Myny, 101145477
+ * @authors Tawseef Patel & Gilles Myny
  * @version 5.0
  */
 
